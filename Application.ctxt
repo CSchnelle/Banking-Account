@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Application
+comment0.text=\r\n\ Project\ 11\r\n\ class\ Application\ -\ main\ function\r\n\ \r\n\ 1.\ Declare\ an\ array\ of\ Account,\ named\ accounts,\ of\ size\ 4\r\n\ 2.\ Initialize\ every\ element\ in\ accounts\ array.\ Make\ accounts[0]and\ \r\n\ accounts[1]\ be\ CheckingAccount\ and\ accounts[2]\ and\ accounts[3]\ be\ SavingsAccount\r\n\ 3.\ Makedepositand\ withdraw\ for\ each\ account\ and\ print\ out\ the\ account\ \r\n\ information\ to\ see\ the\ result.\r\n\ 4.\ If\ the\ account\ is\ SavingsAccount,\ call\ addInterest\ function\ to\ update\ \ the\ \r\n\ account\ balance.\ Then\ print\ out\ the\ account\ information.\r\n\ \r\n\ Catherine\ Schnelle\r\n\ 11/03/19\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

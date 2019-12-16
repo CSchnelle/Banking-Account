@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SavingsAccount
+comment0.text=\r\n\ class\ SavingsAccount\ -\ derived\ class.\r\n\r\n\ Catherine\ Schnelle\r\n\ 11/03/19\r\n
+comment1.params=id\ balance\ interestRate
+comment1.target=SavingsAccount(int,\ double,\ double)
+comment2.params=
+comment2.target=SavingsAccount()
+comment3.params=id\ balance
+comment3.target=SavingsAccount(int,\ double)
+comment4.params=
+comment4.target=void\ addInterest()
+comment5.params=amount
+comment5.target=void\ withdraw(double)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
